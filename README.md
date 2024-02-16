@@ -1,5 +1,4 @@
 # Space Explorer
-# Space Explorer
 
 This is a game project developed with Phaser 3, a popular JavaScript framework for web game development.
 
@@ -14,17 +13,17 @@ Space Explorer is a game where players control a spaceship and must dodge astero
    ```bash
    git clone https://github.com/your-username/space-explorer.git
 
-Install project dependencies::
+Install project dependencies:
 
-
-cd space-explorer
-npm install
+  ```bash
+  cd space-explorer
+  npm install
 
 ## Usage
 You can start the local development server with the following command:
 
-
-npm run dev
+  ```bash
+  npm run dev
 
 Then, open your browser and visit http://localhost:3000 to see the game in action.
 
