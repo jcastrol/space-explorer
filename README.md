@@ -18,16 +18,19 @@ Install project dependencies:
   ```bash
   cd space-explorer
   npm install
+  ```
 
 ## Usage
+
 You can start the local development server with the following command:
 
   ```bash
   npm run dev
-
+  ```
 Then, open your browser and visit http://localhost:3000 to see the game in action.
 
 ## Available Commands
+
 npm run dev: Start the local development server.
 npm run build: Compile the project for production.
 npm run preview: Preview the compiled project locally.
@@ -36,12 +39,7 @@ npm test: Run unit tests.
 
 
 ## Project Structure
-test/: Folder containing unit tests.
-src/: Folder containing the project's source code.
-config/: Folder containing the game configuration.
-core/: Folder containing the core game logic.
-presentation/: Folder containing visual components and game scenes.
-assets/: Folder containing the game's multimedia resources.
+
 * __test__/: Folder containing unit tests.
 * src/: Folder containing the project's source code.
     * config/: CFolder containing the game configuration.
@@ -59,8 +57,8 @@ Contributions are welcome. If you want to contribute to this project, follow the
 4. Push your changes to your fork: git push origin new-feature.
 5. Submit a pull request.
 
-
 ## License
+
 This project is under the MIT License.
 
 This README provides an overview of the project, installation and usage instructions, available commands, project structure, information on how to contribute, and the project license. Make sure to adjust the details according to the specific needs of your project.
